@@ -2,6 +2,10 @@
 Utility to count the instances of a string in files in the current folder (searches recursively)  
 Currently case-insensitive  
 
+## Usage:
+1. Compile, package into jar
+2. java -jar WordCount.jar [--print_files] search term goes here. don't need quotes
+
 ## TO-DO:
 1. Add options for case-sensitivity  
 
